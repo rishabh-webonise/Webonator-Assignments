@@ -7,4 +7,4 @@
 - main (i.e. default branch) is used for production or live deployments within project
 
 ## Assignments
-1. js assignments
+1. frontend assignment
